@@ -5,4 +5,4 @@ yarn-error.log
 .jekyll-metadata
 js/modernizr.js
 public
-src/js/bundle.js
+#src/js/bundle.js
