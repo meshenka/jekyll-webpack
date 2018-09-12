@@ -3,10 +3,10 @@ layout: post
 title: Joyeux anniversaire maman! 
 category: blog
 permalink: /blog/joyeux-anniversaire-maman.html
-subtitle: Joyeux annniseraire à Madeleine Gogel
+subtitle: Joyeux annniseraire à Ma maman
 image: http://developmentseed.org/images/team/young.jpg
-twitter: ecedi
-author: Sylvain Gogel
+twitter: meshenka
+author: Meshenka
 ---
 
 ## Joyeux anniversaire!!

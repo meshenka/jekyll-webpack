@@ -6,7 +6,7 @@ permalink: /post/hello.html
 subtitle: UI Lead + Developer
 image: http://developmentseed.org/images/team/young.jpg
 twitter: meshenka
-author: Sylvain Gogel
+author: meshenka
 ---
 
 ## Hello World!
@@ -16,5 +16,5 @@ author: Sylvain Gogel
 * is
 * a
 * List
-mon adresse mal <sgogel@ecedi.fr>
+mon adresse mal <test@test.com>
 
