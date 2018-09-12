@@ -1,0 +1,20 @@
+---
+layout: post
+title: Hello
+category: team
+permalink: /post/hello.html
+subtitle: UI Lead + Developer
+image: http://developmentseed.org/images/team/young.jpg
+twitter: meshenka
+author: Sylvain Gogel
+---
+
+## Hello World!
+
+* Yes
+* This
+* is
+* a
+* List
+mon adresse mal <sgogel@ecedi.fr>
+

@@ -1,0 +1,6 @@
+node_modules
+_site
+yarn-error.log
+.sass-cache
+.jekyll-metadata
+js/modernizr.js

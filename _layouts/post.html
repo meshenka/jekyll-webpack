@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="row">
+	<div class="span-12">	
+		<header>
+		 <h1>{{ page.title }}</h1>
+		</header>
+	</div>
+</div>
+
+<div class="row">
+	<div class="span-4">
+		<img src="{{page.image}}" height="70" width="70" alt="{{page.subtitle}}"/>
+	</div>
+	<div class="span-8">
+		{{ content }}
+
+		<div class="netlink">
+			Follow {{page.author}} on twitter <a href="http://twitter.com/{{page.twitter}}" target="_blank">{{page.twitter}}</a>
+		</div>
+	</div>
+</div>
+
+    
+
