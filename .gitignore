@@ -4,3 +4,5 @@ yarn-error.log
 .sass-cache
 .jekyll-metadata
 js/modernizr.js
+public
+src/js/bundle.js

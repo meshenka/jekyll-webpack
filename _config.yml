@@ -3,3 +3,5 @@ permalink: /:month-:day-:year/:title.html
 exclude: [node_modules, package.json, yarn.lock, yarn-error.log]
 config:
   ga_key: ua-yyyyyy
+destination: public
+source: src
